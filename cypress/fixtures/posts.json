@@ -1,0 +1,188 @@
+{
+  "articles": [
+    {
+      "title": "ㅁㅁㅁㅁ",
+      "slug": "-bim9me",
+      "body": "ㅁㅁㅁㅁㅁ",
+      "createdAt": "2020-04-23T12:58:26.248Z",
+      "updatedAt": "2020-04-23T12:58:26.248Z",
+      "tagList": [],
+      "description": "111",
+      "author": {
+        "username": "huns",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "opopop",
+      "slug": "opopop-axq2xt",
+      "body": "popopo",
+      "createdAt": "2020-04-23T12:47:31.490Z",
+      "updatedAt": "2020-04-23T12:53:57.863Z",
+      "tagList": [
+        "poop",
+        "ok",
+        "popop"
+      ],
+      "description": "opopopo",
+      "author": {
+        "username": "shyra27",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "popo",
+      "slug": "popo-hzfb83",
+      "body": "popo",
+      "createdAt": "2020-04-23T12:23:07.564Z",
+      "updatedAt": "2020-04-23T12:44:47.659Z",
+      "tagList": [
+        "mop",
+        "popo"
+      ],
+      "description": "opop",
+      "author": {
+        "username": "shyra27",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "oioi",
+      "slug": "oioi-40ngxq",
+      "body": "ioioi",
+      "createdAt": "2020-04-23T12:21:43.723Z",
+      "updatedAt": "2020-04-23T12:21:43.723Z",
+      "tagList": [
+        "oio"
+      ],
+      "description": "ioio",
+      "author": {
+        "username": "shyra27",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "pop",
+      "slug": "pop-jcbb6f",
+      "body": "popo",
+      "createdAt": "2020-04-23T12:19:41.099Z",
+      "updatedAt": "2020-04-23T12:19:41.099Z",
+      "tagList": [],
+      "description": "opopo",
+      "author": {
+        "username": "shyra27",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Body bnao",
+      "slug": "body-bnao-irfv9e",
+      "body": "fakjfdasjdf dsajdlkfjsd fsdjf dsf sdjfsd f",
+      "createdAt": "2020-04-23T12:16:20.732Z",
+      "updatedAt": "2020-04-23T12:16:20.732Z",
+      "tagList": [],
+      "description": "ddddddd",
+      "author": {
+        "username": "gymerhulk",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 1
+    },
+    {
+      "title": "dsppppp@gmail.com",
+      "slug": "dsppppp-gmail-com-4488e3",
+      "body": "dsppppp@gmail.com",
+      "createdAt": "2020-04-23T12:13:40.369Z",
+      "updatedAt": "2020-04-23T12:13:40.369Z",
+      "tagList": [],
+      "description": "dsppppp@gmail.com",
+      "author": {
+        "username": "dsp401",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 2
+    },
+    {
+      "title": "test",
+      "slug": "test-493v3d",
+      "body": "test",
+      "createdAt": "2020-04-23T11:56:18.146Z",
+      "updatedAt": "2020-04-23T11:56:18.146Z",
+      "tagList": [],
+      "description": "test",
+      "author": {
+        "username": "aaaasdf ",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "Testom",
+      "slug": "testom-mhlz8u",
+      "body": "I'm glad to test this app for you",
+      "createdAt": "2020-04-23T11:55:23.717Z",
+      "updatedAt": "2020-04-23T11:55:23.717Z",
+      "tagList": [
+        "test"
+      ],
+      "description": "test",
+      "author": {
+        "username": "AaAaAaAaAaAaAaA",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    },
+    {
+      "title": "poppo",
+      "slug": "poppo-tuxmsw",
+      "body": "popop",
+      "createdAt": "2020-04-23T11:38:19.148Z",
+      "updatedAt": "2020-04-23T11:38:19.148Z",
+      "tagList": [
+        "opp"
+      ],
+      "description": "opo",
+      "author": {
+        "username": "shyra27",
+        "bio": null,
+        "image": "https://static.productionready.io/images/smiley-cyrus.jpg",
+        "following": false
+      },
+      "favorited": false,
+      "favoritesCount": 0
+    }
+  ],
+  "articlesCount": 500
+}
